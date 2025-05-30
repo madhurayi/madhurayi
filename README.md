@@ -1,14 +1,98 @@
-<h1 align="center">Hi 👋, I'm Madhu Priya</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Madhu Priya Rayi</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/madhupriyarayi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhupriyarayi/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/madhu340/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/madhu340/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/madhupriyarayi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/madhupriyarayi/" height="30" width="40" /></a>
+<p align="center">
+  <b>Backend Developer | Full-Stack Enthusiast | Java & Spring Boot Specialist</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhurayi&" alt="madhurayi" /></p>
+🌱 I'm a backend developer with 2+ years of experience building scalable, secure, and production-grade web applications using **Java**, **Spring Boot**, and **React.js**. I love exploring new tools and solving complex problems with clean architecture and efficient design.
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CA2C92?style=flat&logo=flyway&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhurayi&show_icons=true&theme=radical" alt="Madhu's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhurayi&theme=radical&hide_border=false" alt="Madhu's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=madhurayi&theme=radical" alt="Madhu's GitHub Activity Graph" />
+</p>
+
+---
+
+## 📂 Projects
+
+### 🚗 Ride Sharing App – Microservices Backend (Spring Boot)
+- Created scalable services for driver tracking, bookings, and reviews.
+- Integrated **Kafka** and **Retrofit** for communication between services.
+- Used **Flyway** for DB migrations and **Eureka** for service discovery.
+
+### 💬 Quora Clone – Backend (Spring Boot)
+- Designed CRUD APIs for posting questions, answers, and comments.
+
+### 🍔 Food Ordering App – Frontend (React.js)
+- Built a UI using functional components and custom hooks for API integration.
+
+### ⏱ Timesheet Management System (Full-stack: Spring Boot + React)
+- Role-based time tracking with **Azure AD** authentication.
+- Deployed on **Azure**, with PostgreSQL backend.
+
+---
+
+## 🏅 Certifications
+
+- Spring Boot Backend Developer – *Algocamp (2024)*
+- Advanced SQL – *HackerRank (2025)*
+
+---
+
+## 💼 Work Experience
+
+### Software Engineer – IIT Hyderabad
+- Backend development for GST project using Java Spring Boot.
+- RESTful APIs for fraud detection and tax analytics with PostgreSQL.
+
+### SDE Intern – Synopsys
+- Contributed to Coverity tool: scan & storage services.
+- Integrated **Jaeger tracing** for performance debugging.
+
+### Software Engineer – Praval Infotech
+- Full-stack timesheet management system for internal use.
+- End-to-end deployment with secure authentication and Azure hosting.
+
+---
+
+## 📊 Competitive Programming
+
+- 👨‍💻 [LeetCode – madhu340](https://leetcode.com/u/madhu340/)
+- 👩‍💻 [GeeksforGeeks – madhupriyarayi](https://www.geeksforgeeks.org/user/madhupriyarayi/)
+
+---
+
+## 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhupriyarayi/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/madhurayi)
+📧 rayi.madhupriya@gmail.com
+
+---
+
+> *“Code with purpose, build with passion.”*
