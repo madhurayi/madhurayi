@@ -32,9 +32,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=madhurayi&theme=radical&hide_border=false" alt="Madhu's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=madhurayi&theme=radical" alt="Madhu's GitHub Activity Graph" />
-</p>
+---
+
+## 🚀 Live Projects
+
+- 🍔 [Food Ordering App](https://food-ordering-app-using-rect.vercel.app/)
+- 🎬 [Netflix GPT Clone](#) 
 
 ---
 
@@ -50,6 +53,7 @@
 
 ### 🍔 Food Ordering App – Frontend (React.js)
 - Built a UI using functional components and custom hooks for API integration.
+- 👉 [Live Demo](https://food-ordering-app-using-rect.vercel.app/)
 
 ### ⏱ Timesheet Management System (Full-stack: Spring Boot + React)
 - Role-based time tracking with **Azure AD** authentication.
@@ -66,6 +70,10 @@
 
 ## 💼 Work Experience
 
+### Software Engineer – Praval Infotech
+- Full-stack timesheet management system for internal use.
+- End-to-end deployment with secure authentication and Azure hosting.
+
 ### Software Engineer – IIT Hyderabad
 - Backend development for GST project using Java Spring Boot.
 - RESTful APIs for fraud detection and tax analytics with PostgreSQL.
@@ -74,9 +82,6 @@
 - Contributed to Coverity tool: scan & storage services.
 - Integrated **Jaeger tracing** for performance debugging.
 
-### Software Engineer – Praval Infotech
-- Full-stack timesheet management system for internal use.
-- End-to-end deployment with secure authentication and Azure hosting.
 
 ---
 
